@@ -66,7 +66,7 @@ This section defines the main directories used by the script:
 This section contains helper functions:
 * `unzip_parallel`: Unzips files in parallel to a specified output folder.
 * `clean_directory`: Removes files matching specified patterns from a directory.
-* `load_aoi`: Loads AOI shapefiles from the specified directory.
+* `load_aoi`: Loads AOI geojson files from the specified directory.
 * `process_raster`: Resamples and masks a raster using a template and an AOI.
 * `deleteFilesAndFolders`: Deletes files and folders within a specified directory (use with caution).
 * `process_region`: Crops and masks processed rasters to a specific region and saves the output.
