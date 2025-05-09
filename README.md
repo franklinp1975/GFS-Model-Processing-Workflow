@@ -1,6 +1,6 @@
 # R Script Documentation: GFS Data Processing Workflow
 
-This documentation provides a guide to the R script designed for processing Global Forecast System (GFS) data from the National Centers for Environmental Prediction (NCEP). The script handles precipitation, maximum temperature (TMAX), minimum temperature (TMIN), and temperature (TMP) data at a 0.25° resolution, performing tasks such as unzipping, cleaning, resampling, masking, cropping, and saving processed data for specified regions.
+This documentation provides a guide to the R script designed for processing Global Forecast System (GFS) data from the National Centers for Environmental Prediction (NCEP). The script handles precipitation, maximum temperature (TMAX), minimum temperature (TMIN), and average temperature (TMP) data at a 0.25° resolution, performing tasks such as unzipping, cleaning, resampling, masking, cropping, and saving processed data for specified regions.
 
 ## 1. Data Acquisition
 
