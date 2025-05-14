@@ -124,3 +124,7 @@ Finally, the script cleans the R environment and exits.
 7.  Run the script.
 
 The script will process the data and save the regional output files in the directory specified by `dir_config$output`.
+
+## 6. E-learning video
+
+Click on: https://goo.su/vjp9Rp7
